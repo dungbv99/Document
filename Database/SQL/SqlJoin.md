@@ -1,6 +1,6 @@
 # SQL JOIN #
 
-![](../../image/1-sql.png) 
+![](../image/1-sql.png) 
 
 ## INNER JOIN ##
 The `INNER JOIN` keyword selects records that have matching values in both tables.
